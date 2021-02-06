@@ -35,4 +35,4 @@ let myself = {
 }
 ```
 
-#### Gracias por leer mi perfil, ten un gran día
+#### Thank you for reading my profile, have a nice day
