@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi there, I'm Alex 👋
 
-<!--
-**alexgargui/alexgargui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+```javascript
+let myself = {
+  currentJob: "I'm Engineering manager at Beek an audio company for personal development",
+  pastJobs: "I worked at KarmaPulse and as a freelance doing things with Android and Grails",
+  biography: "I'm truly in love with tech also i enjoy it helping people to start in tech",
+  technologies: {
+    actualTechnologies: [
+      "Android",
+      "React/React Native",
+      "Rails",
+      "SQL",
+      "Javascript"
+    ],
+    pastTechnologies: [
+      "Python",
+      "Node.js",
+      "Grails",
+      "C/C++"
+    ]
+  },
+  hobbies: [
+    {"Video Games": "I'm Good at it"},
+    {"Taking Photos": "I'm not good but I enjoy it a lot"},
+    {"Listening Music": "I always work with music"}
+  ],
+  socialNetworks: [
+    {"Instagram:" "alexgargui"},
+    {"Twitter": "alex_gargui"},
+    {"LinkedIn": "Alejandro García Guillén"}
+  ]
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Gracias por leer mi perfil, ten un gran día
