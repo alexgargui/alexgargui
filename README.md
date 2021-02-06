@@ -6,7 +6,7 @@ ___
 let myself = {
   currentJob: "I'm Engineering manager at Beek an audio company for personal development",
   pastJobs: "I worked at KarmaPulse and as a freelance doing things with Android and Grails",
-  biography: "I'm truly in love with tech also i enjoy it helping people to start in tech",
+  aboutMe: "I'm truly in love with tech also i enjoy it helping people to start in tech",
   technologies: {
     actualTechnologies: [
       "Android",
