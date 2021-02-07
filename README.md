@@ -25,7 +25,7 @@ let myself = {
   hobbies: [
     {"Video Games": "I'm Good at it"},
     {"Taking Photos": "I'm not good but I enjoy it a lot"},
-    {"Listening Music": "I always work with music"}
+    {"Listening To Music": "I always work with music"}
   ],
   socialNetworks: [
     {"Instagram:" "alexgargui"},
