@@ -4,7 +4,7 @@ ___
 
 ```javascript
 let myself = {
-  currentJob: "I'm searching for a job and taking time for me",
+  currentJob: "I work as an Engineering Lead in Creditas",
   pastJobs: "I worked at Beek as Software Engineering and Engineering Manager",
   aboutMe: "I'm truly in love with tech also I enjoy it helping people to start in tech",
   technologies: {
