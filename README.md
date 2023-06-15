@@ -29,7 +29,6 @@ let myself = {
   ],
   socialNetworks: [
     {"Instagram:" "alexgargui"},
-    {"Twitter": "alex_gargui"},
     {"LinkedIn": "Alejandro García Guillén"}
   ]
 }
