@@ -29,7 +29,7 @@ let myself = {
   ],
   socialNetworks: [
     {"Email:" "alexgargui.developer@gmail.com"},
-    {"LinkedIn": "https://www.linkedin.com/in/alexgargui/"}
+    {"LinkedIn": "https://www.linkedin.com/in/alexgargui"}
   ]
 }
 ```
