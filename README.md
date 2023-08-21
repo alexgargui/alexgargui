@@ -28,8 +28,8 @@ let myself = {
     {"Listening To Music": "I always work with music"}
   ],
   socialNetworks: [
-    {"Instagram:" "alexgargui"},
-    {"LinkedIn": "Alejandro García Guillén"}
+    {"Email:" "alexgargui.developer@gmail.com"},
+    {"LinkedIn": "[Alejandro García Guillén](https://www.linkedin.com/in/alexgargui/)"}
   ]
 }
 ```
